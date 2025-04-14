@@ -77,6 +77,44 @@ Contribuições para este projeto são bem-vindas! Se você tiver ideias de melh
 
 ### Prints do passo a passo
 
+![1](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/1-irparaAzureAIFoundry.png)
+
+![2](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/2-criandoprojetonoAIFoundry.png)
+
+![3](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/3-projcriadonoAIFoundry.png)
+
+![4](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/4-implantandomodelo.png)
+
+![5](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/5-implantargpt4o.png)
+
+![6](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/6-implantarEmbeddingLarge.png)
+
+![7](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/7-abrirchatplayground.png)
+
+![8](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/8-pensonalizarmsgdosistema.png)
+
+![9](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/9-addfontededados.png)
+
+![10](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/10-carregarpastacompdfs.png)
+
+![11](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/11-arquivoscarregados.png)
+
+![12](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/12-criandorecursodepesquisa.png)
+
+![13](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/13-criandorecursopesquisabasico.png)
+
+![14](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/14-conectaraoservpesquisa.png)
+
+![15](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/15-addconexaosearch.png)
+
+![16](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/16-criarindicedevetor.png)
+
+![17](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/17-ingestaodedocs.png)
+
+![18](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/18-testeretornandorefPDF.png)
+
+![[19 - Por fim, apagar recursos!!]](https://github.com/IvoJucaBezerra/chatbotBaseadoPdf-AzureAIFoundry/blob/main/images/19-apagarrecursosnofim.png)
+
 
 
 ### Autor
